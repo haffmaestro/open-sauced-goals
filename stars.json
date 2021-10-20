@@ -1,25 +1,25 @@
 [
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 50416,
-    "open_issues_count": 35,
-    "forks_count": 5258
+    "stargazers_count": 50675,
+    "open_issues_count": 36,
+    "forks_count": 5275
   },
   {
     "full_name": "phuoc-ng/html-dom",
-    "stargazers_count": 4031,
+    "stargazers_count": 4043,
     "open_issues_count": 27,
-    "forks_count": 296
+    "forks_count": 298
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 35421,
-    "open_issues_count": 191,
-    "forks_count": 2871
+    "stargazers_count": 35483,
+    "open_issues_count": 218,
+    "forks_count": 2890
   },
   {
     "full_name": "bikenik/alfred-anki",
-    "stargazers_count": 39,
+    "stargazers_count": 38,
     "open_issues_count": 17,
     "forks_count": 1
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "rern/rAudio-1",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "facebook/jest",
-    "stargazers_count": 36800,
-    "open_issues_count": 1611,
-    "forks_count": 5384
+    "stargazers_count": 36825,
+    "open_issues_count": 1612,
+    "forks_count": 5396
   },
   {
     "full_name": "bansal-io/pattern.css",
-    "stargazers_count": 3445,
+    "stargazers_count": 3448,
     "open_issues_count": 17,
-    "forks_count": 96
+    "forks_count": 97
   },
   {
     "full_name": "alexlafroscia/alfred-switch-audio-source",
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "automerge/automerge",
-    "stargazers_count": 11301,
+    "stargazers_count": 11321,
     "open_issues_count": 63,
-    "forks_count": 3972
+    "forks_count": 3974
   },
   {
     "full_name": "dwmkerr/hacker-laws",
-    "stargazers_count": 18345,
+    "stargazers_count": 18360,
     "open_issues_count": 111,
-    "forks_count": 1154
+    "forks_count": 1153
   },
   {
     "full_name": "popperjs/react-popper",
-    "stargazers_count": 2135,
+    "stargazers_count": 2137,
     "open_issues_count": 24,
     "forks_count": 223
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 19438,
-    "open_issues_count": 22,
-    "forks_count": 1494
+    "stargazers_count": 19462,
+    "open_issues_count": 23,
+    "forks_count": 1497
   },
   {
     "full_name": "basset/basset",
@@ -99,25 +99,25 @@
     "full_name": "telus/reference-architecture",
     "stargazers_count": 160,
     "open_issues_count": 1,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "phoboslab/jsmpeg",
-    "stargazers_count": 5473,
+    "stargazers_count": 5477,
     "open_issues_count": 164,
-    "forks_count": 1302
+    "forks_count": 1304
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 97713,
+    "stargazers_count": 98516,
     "open_issues_count": 15,
-    "forks_count": 13396
+    "forks_count": 13491
   },
   {
     "full_name": "ForrestKnight/open-source-cs",
-    "stargazers_count": 14589,
+    "stargazers_count": 14606,
     "open_issues_count": 7,
-    "forks_count": 2581
+    "forks_count": 2583
   },
   {
     "full_name": "skleinei/alfred-confluence",
@@ -129,7 +129,7 @@
     "full_name": "skidding/jobs-done",
     "stargazers_count": 945,
     "open_issues_count": 4,
-    "forks_count": 51
+    "forks_count": 50
   },
   {
     "full_name": "rastapasta/mapscii",
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "nwjs/nw.js",
-    "stargazers_count": 38472,
-    "open_issues_count": 873,
+    "stargazers_count": 38478,
+    "open_issues_count": 876,
     "forks_count": 3928
   },
   {
     "full_name": "davidmerfield/randomColor",
-    "stargazers_count": 5709,
+    "stargazers_count": 5712,
     "open_issues_count": 18,
     "forks_count": 411
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "ivanseidel/Is-Now-Illegal",
-    "stargazers_count": 1397,
+    "stargazers_count": 1396,
     "open_issues_count": 15,
     "forks_count": 105
   },
   {
     "full_name": "andreasgrill/auto-selfcontrol",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 30,
     "forks_count": 29
   }
