@@ -1,21 +1,21 @@
 [
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 59095,
-    "open_issues_count": 55,
-    "forks_count": 5624
+    "stargazers_count": 59391,
+    "open_issues_count": 56,
+    "forks_count": 5635
   },
   {
     "full_name": "phuoc-ng/html-dom",
-    "stargazers_count": 4405,
-    "open_issues_count": 23,
-    "forks_count": 348
+    "stargazers_count": 4413,
+    "open_issues_count": 24,
+    "forks_count": 353
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 37141,
-    "open_issues_count": 184,
-    "forks_count": 3032
+    "stargazers_count": 37208,
+    "open_issues_count": 188,
+    "forks_count": 3034
   },
   {
     "full_name": "bikenik/alfred-anki",
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "mrdavidlaing/javascript-koans",
-    "stargazers_count": 2256,
-    "open_issues_count": 72,
+    "stargazers_count": 2258,
+    "open_issues_count": 71,
     "forks_count": 3386
   },
   {
     "full_name": "facebook/jest",
-    "stargazers_count": 37834,
-    "open_issues_count": 1727,
-    "forks_count": 5614
+    "stargazers_count": 37879,
+    "open_issues_count": 1719,
+    "forks_count": 5625
   },
   {
     "full_name": "bansal-io/pattern.css",
-    "stargazers_count": 3502,
+    "stargazers_count": 3503,
     "open_issues_count": 17,
     "forks_count": 96
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "automerge/automerge",
-    "stargazers_count": 12079,
+    "stargazers_count": 12099,
     "open_issues_count": 69,
     "forks_count": 4004
   },
   {
     "full_name": "dwmkerr/hacker-laws",
-    "stargazers_count": 22805,
-    "open_issues_count": 124,
-    "forks_count": 1348
+    "stargazers_count": 22847,
+    "open_issues_count": 126,
+    "forks_count": 1349
   },
   {
     "full_name": "popperjs/react-popper",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 20057,
+    "stargazers_count": 20143,
     "open_issues_count": 25,
-    "forks_count": 1592
+    "forks_count": 1597
   },
   {
     "full_name": "basset/basset",
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "telus/reference-architecture",
-    "stargazers_count": 167,
+    "stargazers_count": 168,
     "open_issues_count": 4,
     "forks_count": 72
   },
   {
     "full_name": "phoboslab/jsmpeg",
-    "stargazers_count": 5616,
+    "stargazers_count": 5622,
     "open_issues_count": 170,
-    "forks_count": 1356
+    "forks_count": 1355
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 106324,
+    "stargazers_count": 106591,
     "open_issues_count": 11,
-    "forks_count": 14602
+    "forks_count": 14647
   },
   {
     "full_name": "ForrestKnight/open-source-cs",
-    "stargazers_count": 15269,
+    "stargazers_count": 15297,
     "open_issues_count": 10,
-    "forks_count": 2686
+    "forks_count": 2682
   },
   {
     "full_name": "skleinei/alfred-confluence",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "skidding/jobs-done",
-    "stargazers_count": 951,
+    "stargazers_count": 952,
     "open_issues_count": 4,
     "forks_count": 49
   },
   {
     "full_name": "rastapasta/mapscii",
-    "stargazers_count": 5962,
+    "stargazers_count": 5966,
     "open_issues_count": 36,
     "forks_count": 205
   },
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "nwjs/nw.js",
-    "stargazers_count": 38702,
-    "open_issues_count": 884,
+    "stargazers_count": 38711,
+    "open_issues_count": 883,
     "forks_count": 3946
   },
   {
@@ -170,12 +170,12 @@
   {
     "full_name": "ivanseidel/Is-Now-Illegal",
     "stargazers_count": 1394,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 105
   },
   {
     "full_name": "andreasgrill/auto-selfcontrol",
-    "stargazers_count": 263,
+    "stargazers_count": 265,
     "open_issues_count": 31,
     "forks_count": 33
   }
